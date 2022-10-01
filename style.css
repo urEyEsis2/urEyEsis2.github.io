@@ -1,3 +1,10 @@
-body {
+h1,h2,h3,th {
 	font-family: arial;
+	color: green;
 } 
+
+p, table {
+	font-family: calibri;
+	
+}
+
