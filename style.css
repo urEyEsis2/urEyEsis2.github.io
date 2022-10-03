@@ -5,6 +5,37 @@ h1,h2,h3,th {
 
 p, table {
 	font-family: calibri;
-	
+	font-size: medium;
 }
 
+input[type=text] {
+    background: white;
+    color: cyan;
+    padding: 10px;
+    border: 1px solid cyan;
+}
+
+body{background-color: aquamarine;}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  li a:hover {
+	background-color: #111;
+  }
